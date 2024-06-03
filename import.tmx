@@ -1,0 +1,25 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<tmx version="1.4">
+  <header creationtool="SDL Language Platform" creationtoolversion="8.1" o-tmf="SDL TM8 Format" datatype="xml" segtype="sentence" adminlang="en-GB" srclang="en-GB" creationdate="20240411T154124Z" creationid="GLOBAL\aflorescu">
+    <prop type="x-Recognizers">RecognizeAll</prop>
+    <prop type="x-IncludesContextContent">True</prop>
+    <prop type="x-TMName">TM En-De</prop>
+    <prop type="x-TokenizerFlags">DefaultFlags</prop>
+    <prop type="x-WordCountFlags">DefaultFlags</prop>
+  </header>
+  <body>
+    <tu creationdate="20240411T154504Z" creationid="GLOBAL\aflorescu" changedate="20240411T154508Z" changeid="GLOBAL\aflorescu" lastusagedate="20240411T154508Z">
+      <prop type="x-LastUsedBy">GLOBAL\aflorescu</prop>
+      <prop type="x-Context">0, 0</prop>
+      <prop type="x-Origin">TM</prop>
+      <prop type="x-ConfirmationLevel">Translated</prop>
+      <tuv xml:lang="en-GB">
+        <seg>Obtain Wacky Racing level Rank <ph type="0" /> to unlock the next level.</seg>
+      </tuv>
+      <tuv xml:lang="de-DE">
+        <seg>asdasd
+asdasd</seg>
+      </tuv>
+    </tu>
+  </body>
+</tmx>
